@@ -1,7 +1,8 @@
 # SimuladorTrafico
 
 ### Autores: Manuel Monforte Escobar y Pablo Agudo Brun. Universidad Complutense de Madrid.
-
+* Manuel Monforte [@manumonforte](https://github.com/manumonforte)
+* Pablo Agudo [@pibloo94](https://github.com/pibloo94)
 Proyecto de Tecnología de la Programación de la Universidad Complutense de Madrid (UCM)
 
 - src: contiene los ficheros .java divididos en paquetes.
