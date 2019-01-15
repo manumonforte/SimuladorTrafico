@@ -1,15 +1,34 @@
 # SimuladorTrafico
 
-### Autores: Manuel Monforte Escobar y Pablo Agudo Brun. Universidad Complutense de Madrid.
-* Manuel Monforte [@manumonforte](https://github.com/manumonforte)
+## About
+SimuladorTrafico is a repository which contains the project for the subject programming technology of Software Engineer Bachelor's Degree at Universidad Complutense Madrid.
+
+The documentation has been written in spanish because of a language constraint in the assignment for the subject as some classes at the code.
+
+### Prerequisites
+
+-
+
+## Language
+
+* Java
+
+## Contributing
+
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+
+## Versioning
+
+We use [GitHub](https://github.com)
+
+## Authors
+
+* Manuel Monforte  [@manumonforte](https://github.com/manumonforte)
 * Pablo Agudo [@pibloo94](https://github.com/pibloo94)
-</br>
-Proyecto de Tecnología de la Programación de la Universidad Complutense de Madrid (UCM)
 
-- src: contiene los ficheros .java divididos en paquetes.
-- resources: contiene los ficheros prueba.
-- images: contiene las imagenes usadas en la interfaz grafica.
+## License
 
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ### Interfaz grafica de la aplicacion.
 
